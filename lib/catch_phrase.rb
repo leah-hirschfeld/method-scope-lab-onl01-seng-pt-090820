@@ -1,3 +1,4 @@
-def catch_phrase
-  puts phrase
+def catch_phrase("Phrase")
+  puts "phrase"
 end
+catch_phrase
